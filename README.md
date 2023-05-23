@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 This is where I share interesting scripts and automations that I write.
+🔭 This is where I share interesting scripts and automations that I write.
 
 <!--
 **krishbandaru/krishbandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
