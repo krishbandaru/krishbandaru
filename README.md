@@ -1,5 +1,6 @@
 ### Hi there 👋
-🔭 This is where I share interesting scripts and automations that I write.
+🌱 This is where I keep scripts and automations that I write.
+🔭 The ones that can be easily reused are in [krish-public](https://github.com/krishbandaru/krish-public).
 
 <!--
 **krishbandaru/krishbandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
